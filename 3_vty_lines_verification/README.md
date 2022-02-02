@@ -7,6 +7,7 @@ In this section, we explore how we can verify vty lines through the DNA Center A
 2. Get the global credentials for CLI
 3. In this use case, we would like to have every interface status to be up. For each interface, we verify that the status is up. In case it is not, it will be added to a list and this list will be reported separately. 
 
+![flow](../IMAGES/vty_lines_verification.png)
 
 ## Usage
 
@@ -83,7 +84,7 @@ Please enter the following commands in the terminal:
         $ python main.py
     
     You will see a report with the results of the vty lines verification displayed in the terminal now.
-    
+
 5.  Great job! You have successfully performed a basic interfaces verification. Customize the code if needed to suit your use case. Click on `next` for the next use case. 
 
 <div align="right">

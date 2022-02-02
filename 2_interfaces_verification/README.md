@@ -8,6 +8,8 @@ In this section, we explore how we can verify the interfaces in a network throug
 2. Get the interfaces
 3. In this use case, we would like to have every interface status to be up. For each interface, we verify that the status is up. In case it is not, it will be added to a list and this list will be reported separately. 
 
+![flow](../IMAGES/interfaces_verification.png)
+
 ## Usage
 
 Please enter the following commands in the terminal:

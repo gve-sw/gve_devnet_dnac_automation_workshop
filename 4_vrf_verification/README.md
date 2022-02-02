@@ -14,6 +14,7 @@ In this use case, we are going to explore how to perform a VRF verification usin
 5. Then, we download the file with the responses from each command.
 6. After having obtained the file, we can extract the relevant content, i.e., the VRF configuration. We compare the current VRF configuration with the golden configuration. 
 
+![flow](../IMAGES/vrf_verification.png)
 
 ## Usage
 Please enter the following commands in the terminal:

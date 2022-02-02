@@ -7,6 +7,7 @@ In this section, we will explore how to perform an NTP server verification on th
 2. Get the nodes configuration details and filter out the current NTP server configuration
 3. For each node, compare the current NTP server configuration with the golden configuration
 
+![flow](../IMAGES/ntp_server_verification.png)
 
 ## Usage
 

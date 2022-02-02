@@ -7,6 +7,7 @@ In this section, we will explore how to perform a DNS Server verification on the
 2. Get the server details and filter out the DNS server details
 3. Compare the DNS server details with the golden config DNS server details and create a report
 
+![flow](../IMAGES/dns_server_verification.png)
 
 ## Usage
 Please enter the following commands in the terminal:
